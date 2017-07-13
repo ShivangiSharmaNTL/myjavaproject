@@ -1,0 +1,9 @@
+step1:git clone url
+step2:
+cd got to repo
+step3:
+git commit -m"msg"
+step4:
+git push
+step5:
+goto  github  click on user name (eg. ShivagiSharmaNTL)>click+add repo
